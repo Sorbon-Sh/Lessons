@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .input {
+    @apply border border-indigo-400 rounded-lg p-2 hover:border-indigo-600 my-2;
+  }
+}
+
+button{
+  border: 2px solid red;
+  background-color: rgb(238, 243, 230);
+  font-weight: bold;
+  border-radius: 5px;
+}
