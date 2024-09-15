@@ -1,0 +1,62 @@
+{
+  "users": {
+    "data": [
+      {
+        "id": 87,
+        "firstName": "Lura",
+        "lastName": "Moss",
+        "email": "onedozsoz@sugigus.vn",
+        "role": "admin"
+      },
+      {
+        "id": 12,
+        "firstName": "Julian",
+        "lastName": "Manning",
+        "email": "wuhip@cawkaen.kp",
+        "role": "user"
+      },
+      {
+        "id": 21,
+        "firstName": "Isabelle",
+        "lastName": "Brewer",
+        "email": "zaivibi@oftukozu.vu",
+        "role": "admin"
+      },
+      {
+        "id": 70,
+        "firstName": "Blake",
+        "lastName": "Ward",
+        "email": "ezijedgil@ifaka.pg",
+        "role": "user"
+      },
+      {
+        "id": 54,
+        "firstName": "Teresa",
+        "lastName": "Caldwell",
+        "email": "mip@tujivka.gw",
+        "role": "moderator"
+      },
+      {
+        "id": 88,
+        "firstName": "Abbie",
+        "lastName": "Vasquez",
+        "email": "novine@dos.bv",
+        "role": "moderator"
+      },
+      {
+        "id": 94,
+        "firstName": "Don",
+        "lastName": "Ross",
+        "email": "zuvsote@ecjutza.pa",
+        "role": "user"
+      },
+      {
+        "id": 55,
+        "firstName": "Cecilia",
+        "lastName": "Roy",
+        "email": "ka@notgep.mn",
+        "role": "user"
+      }
+    ]
+  }
+}
