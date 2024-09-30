@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": "70",
+      "firstName": "This is Ethan",
+      "lastName": "Ward",
+      "email": "ezijedgil@ifaka.pg",
+      "role": "user"
+    },
+    {
+      "id": "54",
+      "firstName": "Teresa",
+      "lastName": "Caldwell",
+      "email": "mip@tujivka.gw",
+      "role": "moderator"
+    },
+    {
+      "id": "88",
+      "firstName": "Abbie",
+      "lastName": "Vasquez",
+      "email": "novine@dos.bv",
+      "role": "moderator"
+    },
+    {
+      "id": "94",
+      "firstName": "Don",
+      "lastName": "Ross",
+      "email": "zuvsote@ecjutza.pa",
+      "role": "user"
+    },
+    {
+      "id": "55",
+      "firstName": "Cecilia",
+      "lastName": "Roy",
+      "email": "ka@notgep.mn",
+      "role": "user"
+    },
+    {
+      "id": "090d",
+      "firstName": "dawioj",
+      "lastName": "ojidawjiodho",
+      "email": "jiqdoiad",
+      "role": "daid"
+    },
+    {
+      "id": "63b2",
+      "firstName": "okok",
+      "lastName": "kpokpo",
+      "email": "kpoopk",
+      "role": "kpokpok"
+    },
+    {
+      "id": "b031",
+      "firstName": "s",
+      "lastName": "",
+      "email": "",
+      "role": ""
+    },
+    {
+      "id": "8444",
+      "firstName": "Name",
+      "lastName": "LastName",
+      "email": "Example@email.ru",
+      "role": "Admin"
+    },
+    {
+      "id": "08e3",
+      "firstName": "sdsad",
+      "lastName": "sadad",
+      "email": "asdadc@",
+      "role": "Admin"
+    }
+  ]
+}
